@@ -17,11 +17,11 @@
   -Sales amount, number of items, and ratings
   
   4. Features / Highlights
- a) Business Problem:
-    Retail businesses need clear visibility into sales performance, customer preferences, and outlet effectiveness.
+   a) Business Problem:
+    Retail businesses need clear visibility into sales performance, customer preferences, and outlet         effectiveness.
 
-  b). Goal:
-     Build an interactive dashboard to track total sales, average sales, item performance, and customer ratings for informed decision-making.
+   b). Goal:
+     Build an interactive dashboard to track total sales, average sales, item performance, and customer       ratings for informed decision-making.
 
    c). Key Visuals:
    -KPI Cards (Total Sales, Average Sales, Number of Items, Avg Ratings)
@@ -30,13 +30,9 @@
    -Slicers for filtering by outlet location, size, and item type
 
    d). Business Impact:
-    This dashboard helps quickly identify which outlet types and item categories perform best, supporting inventory and marketing decisions in a retail setting.
-
-  💬 Would love your feedback on this project! Let me know how I can improve and connect for potential collaborations in Power BI and business analytics.
-
-   #PowerBI #DataAnalytics #Finance #BusinessIntelligence #MBAProjects #Blinkit
-
-   5.   Business Impact & Insights:
+    This dashboard helps quickly identify which outlet types and item categories perform best,      supporting inventory and marketing decisions in a retail setting.
+    
+   5. Business Impact & Insights:
      - Helped identify which outlet types and item categories generate the highest sales, supporting better inventory planning.
      - Showed sales trends over time to find peak and low seasons for sales and customer activity.
      - Enabled quick filtering by outlet size, location, and item type to find insights easily during meetings or discussions.
